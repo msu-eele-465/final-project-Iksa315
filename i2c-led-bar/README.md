@@ -1,4 +1,4 @@
-# I2C LED bar
+# I2C LED
 
 This folder is the CCS project for the I2C LED bar.
 
